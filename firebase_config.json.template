@@ -1,0 +1,5 @@
+{
+  "__huong_dan": "Sao chep file nay thanh firebase_config.json (cung thu muc voi .exe), dien thong tin that vao.",
+  "apiKey": "YOUR_WEB_API_KEY_HERE",
+  "databaseUrl": "https://YOUR_PROJECT_ID-default-rtdb.asia-southeast1.firebasedatabase.app"
+}

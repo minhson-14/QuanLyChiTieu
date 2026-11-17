@@ -1,0 +1,18 @@
+# Build output
+build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+*.exe
+*.o
+*.obj
+*.dll
+
+# Secrets - keep only the template
+firebase_config.json
+
+# Local data / IDE
+*.user
+.vs/
+.vscode/
+.idea/
